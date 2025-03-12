@@ -3,22 +3,10 @@ layout: post
 title: NSERC 2024 Research Overview
 ---
 
-My research group uses low cost, homebuilt laser systems for
-experiments in precision metrology, such as measurements of
-gravitational acceleration using laser cooled atoms, confined in a
-magneto-optical trap (MOT). We have constructed a feedback
-system for stabilizing the laser intensity in this experiment that uses
-an analog circuit and an acousto-optic modulator (AOM). A portion
-of the light diffracted by the AOM is incident on a photodetector.
-The signal from the photodetector is compared to a setpoint voltage
-using a subtractor in the first stage of the analog circuit. In the
-second stage, the subtractor output is amplified and integrated with
-a time constant that can be as small as 100 µs. In the final stage,
-the integrated signal is added to a stable offset voltage, and the
-resulting signal controls a radio frequency (RF) attenuator that
-modulates a voltage controlled oscillator driving the AOM. In this
-scheme, if the laser power fluctuates, the RF signal to the AOM
-changes so as to stabilize the laser intensity. We investigate the
-suitability of this feedback loop for stabilizing the fluorescence from
-the MOT and the impact of stabilizing the atom number on a variety
-of experiments.
+Introduction: My research group uses low cost, homebuilt external cavity diode laser systems for experiments in precision metrology, such as measurements of gravitational acceleration using laser cooled atoms, confined in a magneto-optical trap (MOT). These laser systems have naturally occurring intensity and frequency fluctuations, which are undesirable. Since all of our experiments rely on power stability, we have constructed a feedback system for stabilizing the laser intensity. The system uses a photodetector and an analog circuit to generate a correction signal that regulates an acousto-optic modulator (AOM) so that the power output of the laser can be stabilized.
+
+Methodology: In our scheme, a portion of the light diffracted by the AOM is incident on a monitoring photodetector. The signal from the photodetector is compared to a setpoint voltage using a subtractor in the first stage of the analog circuit. In the second stage, the subtractor output is amplified and integrated with a time constant that can be as small as 300 𝜇s. In the final stage, the integrated signal is added to a stable offset voltage, and the resulting signal controls a radio frequency (RF) attenuator that modulates a voltage-controlled oscillator driving the AOM. In this scheme, if the laser power fluctuates, the RF signal to the AOM changes so as to stabilize the laser intensity. A second photodetector which is located outside the feedback loop detects the laser intensity directed to the experiment. We have also constructed a sample and hold module that engages the feedback loop when a control (TTL) pulse is applied and defeats the feedback when the control pulse is turned off. We investigate the suitability of this feedback loop for a variety of experiments. 
+
+Results: We have tested this feedback loop using a continuous-wave (cw) diode laser. Depending on the time constant of the analog circuit, we find that the laser intensity can be stabilized on time scales ranging from 300 𝜇s to 20 ms when the feedback loop is engaged. The standard deviation of the intensity fluctuations is typically reduced by more than a factor of 3 when the feedback loop is engaged. Our results indicate that laser intensity noise in the frequency range of 1 Hz to 1 kHz is strongly suppressed. We find a similar reduction in laser intensity fluctuations when the feedback loop is operated with the sample and hold module, which suggests that our results can be extended to experiments that use pulsed lasers. 
+
+Conclusions: We are presently investigating the suitability of this feedback loop by carrying out a variety of experiments. In one set of experiments, we deliberately introduce controlled laser intensity variations and attempt to cancel these effects. In another set of experiments, we investigate potential improvements in the specifications of our homebuilt diode lasers when this feedback system is deployed. We also consider the applicability of this feedback loop for atom trapping experiments. 
