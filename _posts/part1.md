@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Project Part 1 Description: 
+title: Project Part 1 Description: Measuring Neutrino's in the IceCube Observatory
 ---
 
+The data presented are the results from the collection of events recorded at the IceCube Neutrino Observatory. Located in the Antarctic, the large apparatus is embeded deep within the dark and thick Antarctic ice and used to detect fundamental particle interactions triggered by neutrinos. The measurement technique used is optical detection of Cherenkov ratiation, emitted due to the speed of relativistic muons moving faster than the local speed of light in the ice. This creates an analogous "sonic boom" of blue light that is measured by digital optical modules (DOM) in the ice. By analysing this data and in accordance to predictions made by the literature, the nature of the preliminary deductive statiscial analysis suggests that classification of the exact neutrino flavour that initiated the Cherenkov light burst can be directly determined using the measurements of the optical parameter, q.
 
+This is a two dimensional quantitative dataset (technically three dimensional since there are 10, 2D events) consisting of seven columns which characterize the optical intensity, location and time of recorded "hits" by the DOM modules in the IceCube experiment. A hit refers to the detection of light by the optical modules whereas an event refers to the duration of time over which several hits occur. Specifically, within each numbered dataset, there are 844 rows by 7 columns meaning there are a total of 5908 total smaple points. I chose this data as I wanted to be able to explore the interactions of cosmic neutrinos and investigate how photonic/optical devices can be used in physics outside of my typical brand of research. 
