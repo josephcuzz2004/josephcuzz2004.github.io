@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *NSERC 2024 Research Overview
+title: NSERC 2024 Research Abstract
 ---
 
 Introduction: My research group uses low cost, homebuilt external cavity diode laser systems for experiments in precision metrology, such as measurements of gravitational acceleration using laser cooled atoms, confined in a magneto-optical trap (MOT). These laser systems have naturally occurring intensity and frequency fluctuations, which are undesirable. Since all of our experiments rely on power stability, we have constructed a feedback system for stabilizing the laser intensity. The system uses a photodetector and an analog circuit to generate a correction signal that regulates an acousto-optic modulator (AOM) so that the power output of the laser can be stabilized.
