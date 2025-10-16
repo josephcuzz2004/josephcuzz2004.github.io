@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper discusses the specifications of a home-built external cavity diode laser system that is suitable for cold-atom velocimetry and measurements of gravity.'
-date: Sumitted: 2025-08
+date: "Submitted: 2025-08"
 venue: 'Review of Scientific Instrument'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'J. Randhawa, G. Carlse, M. B. Llaguno, J. Cuzzupoli, E. C. Ramos, T. Vacheresse, A. Pouliot, and A. Kumarakrishnan1'
