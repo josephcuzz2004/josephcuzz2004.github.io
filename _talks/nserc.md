@@ -1,5 +1,5 @@
 ---
-title: "Feedback System for Laser Intensity Stabilization"
+title: "Development of a Feedback System for Laser Intensity Stabilization"
 collection: talks
 type: "Conference Oral Presentation"
 permalink: /talks/nserc
