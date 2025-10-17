@@ -8,6 +8,8 @@ date: 2024-10-26
 location: "Vancouver, British Columbia, Canada"
 ---
 
+[More information here]([https://www.yorku.ca/science/wp-content/uploads/sites/31/2024/08/2024-Summer-Undergraduate-Research-Conference-Booklet.pdf](https://cupc.cap.ca/2024-attendee-information/2024-student-presentations/))
+
 We have constructed a feedback system for stabilizing the intensity of diode lasers for experiments in precision metrology. The system uses an analog circuit to generate a correction signal that regulates an acousto-optic 
 modulator (AOM) so as to stabilize the output power of the laser. A portion of the light diffracted by the AOM is incident on a photodetector. The signal from this photodetector is compared to a setpoint 
 voltage using a subtractor, where the output is then amplified and integrated with a time constant that can be as small as 100 μs. The resulting signal controls a radio frequency (RF) attenuator that
