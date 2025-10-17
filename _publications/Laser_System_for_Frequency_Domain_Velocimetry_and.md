@@ -3,7 +3,7 @@ title: "Laser System for Frequency Domain Velocimetry and Atom
 Interferometry Experiments"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/Laser_System_for_Frequency_Domain_Velocimetry_and
 excerpt: 'This paper discusses the specifications of a home-built external cavity diode laser system that is suitable for cold-atom velocimetry and measurements of gravity.'
 date: 2025-08-01
 submission_status: "Submitted: 2025-08"
