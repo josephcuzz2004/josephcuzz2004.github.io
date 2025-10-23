@@ -1,6 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Classifying Neutrino Flavor Based on Optical Signal In IceCube Neutrino Observatory Final Data Exploration and Applied Machine Learning Technique"
+excerpt: " I present the final exploratory data analysis (EDA) and applied
+ machine learning results for the IceCube dataset, regarding methods
+ of neutrino flavor classification. I utilize different statistical techniques
+ ranging from Gaussian analysis, correlation matrices, random forest
+ regression, k-means clustering, among others to group, classify and
+ predict neutrino flavour from the interaction events detected by Ice
+Cube. In particular, I use the parameters of hits per unit of optical
+ measurement to decipher the neutrino flavour based on key differ
+ences initially observed by simulations of these events. While results
+ are not conclusive, it would seem that with a more thorough analy
+sis, this method can be a useful means to classify neutrino flavour of
+ events detected at IceCube 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
