@@ -7,7 +7,7 @@ permalink: /publication/Laser_System_for_Frequency_Domain_Velocimetry_and
 excerpt: 'This paper discusses the specifications of a home-built external cavity diode laser system that is suitable for cold-atom velocimetry and measurements of gravity.'
 date: 2025-08-01
 submission_status: "Submitted: 2025-08"
-venue: 'Review of Scientific Instrument'
+venue: 'Review of Scientific Instruments'
 paperurl: 'https://josephcuzz2004.github.io/files/Randhawa_RSI%20Laser%20Paper%202025.pdf'
 citation: 'J. Randhawa, G. Carlse, M. B. Llaguno, J. Cuzzupoli, E. C. Ramos, T. Vacheresse, A. Pouliot, and A. Kumarakrishnan1'
 ---
