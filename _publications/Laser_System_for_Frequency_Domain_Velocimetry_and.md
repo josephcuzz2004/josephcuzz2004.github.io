@@ -8,7 +8,7 @@ excerpt: 'This paper discusses the specifications of a home-built external cavit
 date: 2025-08-01
 submission_status: "Submitted: 2025-08"
 venue: 'Review of Scientific Instrument'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://github.com/josephcuzz2004/josephcuzz2004.github.io/blob/master/files/Randhawa_RSI%20Laser%20Paper%202025.pdf)'
 citation: 'J. Randhawa, G. Carlse, M. B. Llaguno, J. Cuzzupoli, E. C. Ramos, T. Vacheresse, A. Pouliot, and A. Kumarakrishnan1'
 ---
 
