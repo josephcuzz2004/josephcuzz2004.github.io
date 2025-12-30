@@ -1,27 +1,27 @@
 ---
-title: "Courses"
-permalink: /courses/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-{% for course in site.courses %}
+{% for research in site.research %}
   <article class="archive__item">
     <h2 class="archive__item-title">
-      <a href="{{ course.url }}">{{ course.title }}</a>
+      <a href="{{ research.url }}">{{ research.title }}</a>
     </h2>
 
-    {% if course.type %}
-      <p><strong>{{ course.type }}</strong></p>
+    {% if research.type %}
+      <p><strong>{{ research.type }}</strong></p>
     {% endif %}
 
-    {% if course.venue %}
-      <p>{{ course.venue }}</p>
+    {% if research.venue %}
+      <p>{{ research.venue }}</p>
     {% endif %}
 
-    {% if course.date %}
-      <p><small>{{ course.date | date: "%Y" }}</small></p>
+    {% if research.date %}
+      <p><small>{{ research.date | date: "%Y" }}</small></p>
     {% endif %}
 
-    {{ course.excerpt }}
+    {{ research.excerpt }}
   </article>
 {% endfor %}
