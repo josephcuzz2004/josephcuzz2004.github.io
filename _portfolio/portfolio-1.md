@@ -1,6 +1,6 @@
 ---
 title: "ML Event Classification in High-Noise Detector Data"
-excerpt: "Applied statistical analysis and machine learning project to classify rare neutrino interaction events in high-noise IceCube detector data, focusing on model robustness and uncertainty. 1<br/><img src='/images/neutrino.png'>"
+excerpt: "Applied statistical analysis and machine learning project to classify rare neutrino interaction events in high-noise IceCube detector data, focusing on model robustness and uncertainty. <br/><img src='/images/neutrino.png'>"
 collection: portfolio
 ---
 
