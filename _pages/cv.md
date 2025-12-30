@@ -11,18 +11,18 @@ redirect_from:
 
 ## Education
 **Specialized Honors B.Sc. in Physics**  
-York University — *Expected April 2026*
+York University - *Expected April 2026*
 
 ---
 
 ## Research Experience
 
-### Quantum Optics — University of Toronto  
+### Quantum Optics - University of Toronto  
 **Optical Box Trap for Ultracold Quantum Gases**  
 *Apr 2025 – Sep 2025*
 
 - Designed and implemented a fully functional optical box trap for ultracold atomic gases, including planning, simulation, optical design, testing, and experimental realization.
-- Replaced harmonic trapping potentials—which produce inhomogeneous atomic densities—with a box-like optical potential, yielding a spatially homogeneous atomic cloud.
+- Replaced harmonic trapping potentials, which produce inhomogeneous atomic densities, with a box-like optical potential, yielding a spatially homogeneous atomic cloud.
 - Implemented sharply sculpted, blue-detuned optical potentials to confine a 3D cloud of \(^{40}\mathrm{K}\) atoms.
 - Applied advanced knowledge of atomic physics, statistical mechanics, Fourier optics, and atom trapping techniques.
 - Developed and aligned complex optical systems involving fiber coupling, beam shaping, acousto-optics, optomechanics, and imaging.
@@ -31,7 +31,7 @@ York University — *Expected April 2026*
 
 ---
 
-### Experimental Atomic Physics — York University  
+### Experimental Atomic Physics - York University  
 **Laser Intensity Stabilization Feedback System**  
 *Apr 2024 – Sep 2024*
 
@@ -44,7 +44,7 @@ York University — *Expected April 2026*
 
 ---
 
-### Experimental Atomic Physics — York University  
+### Experimental Atomic Physics - York University  
 **AOM-Modulated Frequency-Stabilized Laser Lock-In**  
 *2024*
 
@@ -67,8 +67,8 @@ York University — *Expected April 2026*
 
 ## Certifications & Training
 
-- **Laser Safety Training Certification** — York University / University of Toronto (2024–2025)  
-- **Machine Shop Training** — University of Toronto (June 2025)
+- **Laser Safety Training Certification** - York University / University of Toronto (2024–2025)  
+- **Machine Shop Training** - University of Toronto (June 2025)
 
 ---
 
@@ -77,8 +77,8 @@ York University — *Expected April 2026*
 - **W.J. Megaw Prize in Experimental Physics** (2024)  
   *Highest grade in third-year experimental laboratory course (SC/PHYS 3220).*
 
-- **NSERC USRA Research Award** — University of Toronto (2025)  
-- **NSERC USRA Research Award** — York University (2024)
+- **NSERC USRA Research Award** - University of Toronto (2025)  
+- **NSERC USRA Research Award** - York University (2024)
 
 - **Allan D. & Josie A. Stauffer Scholarship in Theoretical Physics** (2024)  
   *Highest combined average in PHYS 3090 (Methods in Theoretical Physics) and PHYS 3040 (Quantum Mechanics).*
@@ -96,6 +96,6 @@ York University — *Expected April 2026*
 *Jan 2025 – Apr 2025*  
 - Delivered one-on-one tutoring in undergraduate physics, emphasizing problem-solving strategies and conceptual understanding.
 
-**Math & Science Tutor — Mathnasium**  
+**Math & Science Tutor - Mathnasium**  
 *May 2023 – Nov 2024*  
 - Tutored high-school mathematics and physics; prepared students for SAT-level material and advanced coursework.
