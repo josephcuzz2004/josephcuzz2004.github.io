@@ -10,5 +10,5 @@ This involved implementing and evaluating multiple unsupervised and supervised l
 
 Results suggest that larger datasets with additional features could significantly enhance classification performance. This work highlights challenges common to contemporary applied ML systems, noisy measurements, and uncertainty quantification. Further, it demonstrates a data-driven approach to extracting a predictive signal from experimental data.
 
-[Access the full report here]({{ '/assets/files/my-report.pdf' | relative_url }})
+[Access the full report here]({{ '/files/Classifying_Neutrino_Flavors_Based_on_interaction_Optical_Signal_In_IceCube_Neutron_Observatory.pdf' | relative_url }})
 
