@@ -12,3 +12,11 @@ Results suggest that larger datasets with additional features could significantl
 
 [Access the full report here]({{ '/files/Classifying_Neutrino_Flavors_Based_on_interaction_Optical_Signal_In_IceCube_Neutron_Observatory.pdf' | relative_url }})
 
+<iframe
+  src="{{ '/notebooks/Project_Part2_Classifying_Neutrinos(1).html' | relative_url }}"
+  width="100%"
+  height="900"
+  style="border:none;">
+</iframe>
+
+
