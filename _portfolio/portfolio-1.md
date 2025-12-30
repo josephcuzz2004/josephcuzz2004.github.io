@@ -9,3 +9,6 @@ I have developed a machine learning pipeline to classify neutrino flavour from h
 This involved implementing and evaluating multiple unsupervised and supervised learning approaches which included k-means clustering and random forest regression models to group and classify these interaction events. Particular emphasis was placed on robustness to noise and model interpretability. While definitive classification remains challenging due to detector limitations and overlapping feature distributions, the analysis identified statistically meaningful structure in the data and demonstrated that optical density features contain a predictive signal. 
 
 Results suggest that larger datasets with additional features could significantly enhance classification performance. This work highlights challenges common to contemporary applied ML systems, noisy measurements, and uncertainty quantification. Further, it demonstrates a data-driven approach to extracting a predictive signal from experimental data.
+
+[Access the full report here]({{ '/assets/files/my-report.pdf' | relative_url }})
+
