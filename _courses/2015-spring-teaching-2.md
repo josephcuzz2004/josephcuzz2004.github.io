@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Experimental Techniques in Laser Physics"
 collection: courses
-type: "Workshop"
-permalink: /courses/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /courses/2014-spring-teaching-1
+venue: "York University, Department of Physics"
+date: Fall 2025
+location: "Toronto, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course involves a selection of experiments in laser physics, with
+emphasis on techniques necessary for trapping neutral
+atoms with lasers.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
