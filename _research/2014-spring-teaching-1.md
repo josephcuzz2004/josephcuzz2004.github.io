@@ -1,5 +1,5 @@
 ---
-title: "Optical Box Trap for Quantum Gases"
+title: "[2025] Optical Box Trap for Quantum Gases"
 collection: research
 type: "2025 NSERC USRA Student Researcher"
 permalink: /research/2014-spring-teaching-1
