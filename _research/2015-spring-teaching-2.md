@@ -1,5 +1,5 @@
 ---
-title: "Experimental Atomic Physics"
+title: "[2024] Experimental Atomic Physics"
 collection: courses
 type: "2024 NSERC USRA Student Researcher"
 permalink: /research/2014-spring-teaching-1
