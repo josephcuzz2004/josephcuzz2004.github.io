@@ -17,3 +17,6 @@ modulates a voltage-controlled oscillator driving the AOM. In this scheme, if th
 constructed a sample and hold module that engages the feedback loop when a control (TTL) pulse is applied and disengages the feedback when the control pulse is off. With the feedback engaged, we
 find that the laser intensity can be stabilized on time scales ranging from 100 μs to 20 ms. The standard deviation of the intensity fluctuations is typically reduced by more than a factor of 3. We find
 a similar reduction in laser intensity fluctuations when the feedback loop is operated with the sample and hold module, suggesting that our results can be extended to pulsed laser experiments.
+
+[View the slides (PPTX)]({{ '/assets/slides/my_talk.pptx' | relative_url }})
+
