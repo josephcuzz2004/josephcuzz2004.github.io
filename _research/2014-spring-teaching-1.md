@@ -1,9 +1,6 @@
 ---
-title: "[2025] Optical Box Trap for Quantum Gases"
-collection: research
-type: "2025 NSERC USRA Student Researcher"
-permalink: /research/2014-spring-teaching-1
-venue: "University of Toronto, Department of Physics"
-date: May 2025-August 2025
-location: "Toronto, Canada"
+title: " [2025] Optical Box Trap for Quantum Gases"
+collection: portfolio
+layout: single
+excerpt: "Design and modeling of an optical box trap for ultracold quantum gases."
 ---
