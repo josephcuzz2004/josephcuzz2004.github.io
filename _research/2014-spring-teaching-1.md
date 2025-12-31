@@ -1,9 +1,12 @@
 ---
-title: " [2025] Optical Box Trap for Quantum Gases"
+title: "[2025] Optical Box Trap for Quantum Gases"
 collection: portfolio
 layout: single
 excerpt: "University of Toronto // 2025 NSERC USRA Student Researcher"
+header:
+  teaser: /images/trap.png
 ---
+
 
 Ultra-cold quantum gases provide a versatile platform for studying phenomena such as unitary interactions and non-equilibrium dynamics. In this work, a degenerate gas of fermionic 40K is prepared beneath an atom chip via evaporative cooling and optical confinement. Conventional harmonic trapping using red-detuned Gaussian beams produces a strongly inhomogeneous atomic cloud density, which complicates physical interpretations and limits the breadth of experiments which can be conducted.
 
