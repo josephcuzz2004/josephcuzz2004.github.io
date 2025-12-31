@@ -1,7 +1,9 @@
 ---
 title: "Research"
-layout: archive
 permalink: /research/
 author_profile: true
-collection: research
 ---
+
+{% for post in site.research %}
+  {% include archive-single.html %}
+{% endfor %}
