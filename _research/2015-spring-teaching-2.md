@@ -1,8 +1,10 @@
 ---
 title: "[2024] Experimental Atomic Physics"
-collection: portfolio
+collection: research
 layout: single
 excerpt: "York University // 2024 NSERC USRA Student Researcher"
+header:
+  teaser: /images/stab img.png 
 ---
 I have developed an analog feedback system to stabilize the intensity of diode lasers for precision metrology experiments. A fraction of diffracted light from an acousto-optic modulator (AOM) is monitored with a photodetector and compared to a setpoint voltage, producing an error signal that is amplified and integrated with time constants as short as 100 µs to regulate the RF drive to the AOM.
 
