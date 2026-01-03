@@ -17,11 +17,10 @@ Through my work in experimental physics, I have developed a strong expertise in 
 
 
 Technical Skills
-======
 - **Quantum & Atomic Physics:** Ultracold atoms, quantum optics, statistical mechanics  
 - **Experimental Techniques:** Laser systems, optical trapping, beam shaping, imaging, optomechanics  
 - **Electronics:** RF systems, analog circuits, AOMs, feedback control  
 - **Programming & Data Analysis:** Python, numerical simulation, statistical analysis, signal processing, SciPy, Skikit-Learn 
 - **Instrumentation & Fabrication:** Optical design, fiber coupling, laboratory instrumentation  
-======
+
 ------
