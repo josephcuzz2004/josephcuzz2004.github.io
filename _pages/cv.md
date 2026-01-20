@@ -23,7 +23,7 @@ York University - *Expected April 2026*
 
 - Designed and implemented a fully functional optical box trap for ultracold atomic gases, including planning, simulation, optical design, testing, and experimental realization.
 - Replaced harmonic trapping potentials, which produce inhomogeneous atomic densities, with a box-like optical potential, yielding a spatially homogeneous atomic cloud.
-- Implemented sharply sculpted, blue-detuned optical potentials to confine a 3D cloud of \(^{40}\mathrm{K}\) atoms.
+- Implemented sharply sculpted, blue-detuned optical potentials to confine a 3D cloud of 40K atoms.
 - Applied advanced knowledge of atomic physics, statistical mechanics, Fourier optics, and atom trapping techniques.
 - Developed and aligned complex optical systems involving fiber coupling, beam shaping, acousto-optics, optomechanics, and imaging.
 - Performed computational simulations and data analysis to validate experimental and theoretical results.
